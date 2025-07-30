@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mi Experiencia con la eJPTv2"
-date: 2025-07-30 10:00:00 +0000
+date: 2025-07-29 20:00:00 +0000
 author: KuromiXploit
 categories: [Certificaciones]
 tags: [eJPTv2, TryHackMe, Hacking]
