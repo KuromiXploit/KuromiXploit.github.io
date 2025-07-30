@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Mi Experiencia con La Ejptv2"
-date: 2025-07-30
+title: "Mi Experiencia con la eJPTv2"
+date: 2025-07-30 10:00:00 +0000
 author: KuromiXploit
-tags: [blog, hacking, osint]
+categories: [Certificaciones]
+tags: [eJPTv2, TryHackMe, Hacking]
+pin: false
 ---
-
-Hoy 
+Hoy quiero contar mi experiencia con la certificación eJPTv2, una de las más importantes en mi camino como hacker ético...
